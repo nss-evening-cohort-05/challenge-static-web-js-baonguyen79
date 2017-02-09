@@ -1,0 +1,15 @@
+.inputBox label:nth-child(3) {
+	margin-left: 20px;
+}
+
+#build {
+	margin-top: 30px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	
+}
+
+#build:hover {
+	background-color: gray;
+	color: white;
+}
